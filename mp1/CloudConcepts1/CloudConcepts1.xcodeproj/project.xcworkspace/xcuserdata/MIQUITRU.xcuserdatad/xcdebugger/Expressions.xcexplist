@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "MP1Node::update_membership_list(MemberListEntry):MP1Node.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "MP1Node::JOINREQMessageHandler(char*, unsigned long):MP1Node.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "EmulNet::ENsend(Address*, Address*, char*, int):EmulNet.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "MP1Node::nodeLoopOps():MP1Node.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "MP1Node::member_list_serialize(char*):MP1Node.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "MP1Node::ping_others():MP1Node.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "*reply_data[100]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
